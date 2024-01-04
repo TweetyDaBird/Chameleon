@@ -1,5 +1,7 @@
 # Chameleon 
 
+![Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/9nrq1ur6bhpt908ksrl6s7qjo6i8.jpg)
+
 ## Features
 **Chameleon is a grid type orthogonal keyboard with two optional layouts in one single PCB.** Being able to break off the bottom row allows both a 5x12 layout similar to the popular Preonic and a 4x12 layout similar to the equally popular little brother Planck on the same PCB. 
 
@@ -61,3 +63,6 @@ The 8 optional RGB LED's needs to be soldered in place if used. (These are pre-s
 A full sandwich type case in FR4 material will be added at a later date for those interested, but is for now WIP.
 
 ** Firmware pending
+
+![Built Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1473.JPEG)
+![Lit Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1472.JPEG)
