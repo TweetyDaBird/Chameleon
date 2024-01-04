@@ -66,3 +66,28 @@ A full sandwich type case in FR4 material will be added at a later date for thos
 
 ![Built Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1473.JPEG)
 ![Lit Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1472.JPEG)
+
+# Making Chameleon yourself
+**Chameleon is open source / open hardware, and can be manufactured by anyone. The release contains all the neccesary files like parts lists, positions files etc for a full PCB/SMT production.** 
+
+The formatting and files are geared towards [JLCPCB](http://jlcpcb.com), but never tested as such, as I only manufacture the PCB then do the assembly myself (at least until this reaches a volume justifying full SMT production).
+
+The components are small enough that you would have to be highly skilled to attempt to assemble this either as hand soldered, or small scale/DIY SMT. I would highly recommend ordering the PCB as fully assembled unless you know you have the neccesary skill-set.
+
+## Buy a kit!
+I sell complete kits, making it easy to build your keyboard, and it also supports prototypes for new wacky ones. 
+
+<a href="https://lectronz.com/stores/tweetys-wild-thinking"><img alt="Buy it on Lectronz" src="https://lectronz.com/static/badges/buy-it-on-lectronz-small.png" /></a>
+
+## Discord for build help and discussions!
+
+<a href="https://discord.gg/G6QzcJQUnm"><img alt="Discuss on Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png" width="219" height="60"/></a>
+
+# License
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] - This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
