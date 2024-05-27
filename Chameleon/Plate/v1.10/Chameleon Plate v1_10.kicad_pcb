@@ -136,7 +136,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "00bfcaa1-f292-4e84-8b1d-ac6c77f22250")
-		(at 61.18 92.08)
+		(at 66.18 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW26"
@@ -258,7 +258,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "029b8a92-443a-40bb-b09e-84e3a5f34678")
-		(at 51.655 63.505)
+		(at 56.655 63.505)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H6"
@@ -394,7 +394,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "031f1e29-3141-4bae-86a8-5e6791f7641f")
-		(at 213.58 73.03)
+		(at 218.58 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW22"
@@ -516,7 +516,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "06bdeeb9-cc0a-4ab6-a615-2ce0234534d9")
-		(at 213.58 53.98)
+		(at 218.58 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW10"
@@ -638,7 +638,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "0b8b6f72-b9f3-4256-8f41-b8337170c037")
-		(at 61.18 111.13)
+		(at 66.18 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW38"
@@ -760,7 +760,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "0c12d9ae-cd32-4716-b606-09369f442fa4")
-		(at 42.13 53.98)
+		(at 47.13 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW1"
@@ -882,7 +882,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "0dab5700-1cb5-4e99-93be-ca1c03241c1e")
-		(at 175.48 111.13)
+		(at 180.48 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW44"
@@ -1004,7 +1004,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "0e81a62b-2aa3-47d4-b113-593423185660")
-		(at 194.53 130.18)
+		(at 199.53 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW57"
@@ -1126,7 +1126,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "169d85fe-b9cd-4033-be0e-7656c21431cd")
-		(at 194.53 111.13)
+		(at 199.53 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW45"
@@ -1248,7 +1248,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "185b6218-39a9-4e3b-84f5-c71ad2c49c32")
-		(at 118.33 92.08)
+		(at 123.33 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW29"
@@ -1370,7 +1370,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "1b3157d4-8311-4444-a4f6-d5892f7ed3ff")
-		(at 251.68 92.08)
+		(at 256.68 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW36"
@@ -1492,7 +1492,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "2865032c-3751-451d-866d-2b8864c3fb0a")
-		(at 194.53 53.98)
+		(at 199.53 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW9"
@@ -1614,7 +1614,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "2af80233-feb9-42f9-affa-8b04d2dd859f")
-		(at 251.68 111.13)
+		(at 256.68 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW48"
@@ -1736,7 +1736,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "2dc3856c-80c4-46e9-9056-2e0876240cc9")
-		(at 232.63 130.18)
+		(at 237.63 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW59"
@@ -1858,7 +1858,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "306b4e90-4b33-4cc3-a11d-960ebb75da44")
-		(at 137.38 92.08)
+		(at 142.38 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW30"
@@ -1980,7 +1980,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "35f25b9d-b21c-491b-bb34-e46ae9c6a40c")
-		(at 156.43 73.03)
+		(at 161.43 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW19"
@@ -2102,7 +2102,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "36380271-198f-45b8-9c9a-913e4304eb2f")
-		(at 175.48 53.98)
+		(at 180.48 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW8"
@@ -2224,7 +2224,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "4118e769-ea06-4f7c-8dce-d8fd2be21325")
-		(at 118.33 111.13)
+		(at 123.33 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW41"
@@ -2346,7 +2346,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "41cf338f-bccb-4a21-babd-4e1cd52bed8f")
-		(at 242.155 82.555)
+		(at 247.155 82.555)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H4"
@@ -2482,7 +2482,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "432b1999-142f-4558-b22e-7afd23059649")
-		(at 232.63 73.03)
+		(at 237.63 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW23"
@@ -2604,7 +2604,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "46555328-41e9-4c8e-9d88-907fb65659b7")
-		(at 156.43 111.13)
+		(at 161.43 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW43"
@@ -2726,7 +2726,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "47978e87-2fb7-474a-a4cf-ae9b016ed89a")
-		(at 156.43 53.98)
+		(at 161.43 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW7"
@@ -2848,7 +2848,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "4901e295-1066-4480-8779-d5c34c740c5c")
-		(at 80.23 130.18)
+		(at 85.23 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW51"
@@ -2970,7 +2970,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "4b0a2308-36c5-4247-bede-80e5011695fd")
-		(at 118.33 53.98)
+		(at 123.33 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW5"
@@ -3092,7 +3092,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "4d310dba-cb4c-4f39-8f1e-a3ec5cdeb1e5")
-		(at 213.58 92.08)
+		(at 218.58 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW34"
@@ -3214,7 +3214,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "4e915848-e5d6-4271-979a-0c7eeef0488b")
-		(at 42.13 92.08)
+		(at 47.13 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW25"
@@ -3336,7 +3336,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "5058e49f-a238-43b6-ac00-5c51b70b80b8")
-		(at 137.38 53.98)
+		(at 142.38 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW6"
@@ -3458,7 +3458,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "5350b3f5-cb6a-4f96-b9eb-8fcfb1e43b26")
-		(at 42.13 111.13)
+		(at 47.13 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW37"
@@ -3580,7 +3580,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "53fa6887-7dcb-401f-928a-6649b23b32a7")
-		(at 213.58 130.18)
+		(at 218.58 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW58"
@@ -3702,7 +3702,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "5b708118-5e95-4f5f-b692-b954142e02c1")
-		(at 175.48 73.03)
+		(at 180.48 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW20"
@@ -3824,7 +3824,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "6253691e-1614-4459-b23d-fe01396470b8")
-		(at 251.68 73.03)
+		(at 256.68 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW24"
@@ -3946,7 +3946,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "660774f0-13be-4fdc-ae28-f3261cd4c70d")
-		(at 61.18 130.18)
+		(at 66.18 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW50"
@@ -4068,7 +4068,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "66daf0f4-9cee-4efc-a2dc-02af4d50c818")
-		(at 232.63 53.98)
+		(at 237.63 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW11"
@@ -4190,7 +4190,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "67d58b11-ae07-4b96-b9a4-3a5c406d2908")
-		(at 51.655 82.555)
+		(at 56.655 82.555)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H1"
@@ -4326,7 +4326,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "690d7838-8d96-4c93-b9c7-16b0627224e2")
-		(at 137.38 73.03)
+		(at 142.38 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW18"
@@ -4448,7 +4448,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "6985ad71-dcbd-4415-88b8-10e9d9ef4dfa")
-		(at 80.23 111.13)
+		(at 85.23 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW39"
@@ -4570,7 +4570,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "6c10d1c0-55b7-43ae-b64f-ccbe0c2a2399")
-		(at 99.28 73.03)
+		(at 104.28 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW16"
@@ -4692,7 +4692,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "6fc1f98e-b989-4da4-ba00-9aec7f7358c5")
-		(at 51.655 120.655)
+		(at 56.655 120.655)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H2"
@@ -4828,7 +4828,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "72c9c8b1-f856-4e6f-b98e-19b707c07e7f")
-		(at 242.155 120.655)
+		(at 247.155 120.655)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H5"
@@ -4964,7 +4964,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "73bd1411-a21e-429a-9a56-37864f22981e")
-		(at 175.48 92.08)
+		(at 180.48 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW32"
@@ -5086,7 +5086,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "73e5cfb0-1b86-411c-84a8-29b2359e3391")
-		(at 232.63 111.13)
+		(at 237.63 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW47"
@@ -5208,7 +5208,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "7ed98e25-a829-4a86-95f9-fc757a74be19")
-		(at 42.13 130.18)
+		(at 47.13 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW49"
@@ -5330,7 +5330,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "80a3bab9-d105-453b-923b-d258d8063c92")
-		(at 194.53 92.08)
+		(at 199.53 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW33"
@@ -5452,7 +5452,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "891733a5-a816-421d-9a0b-e1ddb7e06287")
-		(at 99.28 92.08)
+		(at 104.28 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW28"
@@ -5574,7 +5574,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "9af0c2ab-4a99-448a-9eee-95ee21892c29")
-		(at 251.68 130.18)
+		(at 256.68 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW60"
@@ -5696,7 +5696,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "9bc0bc00-5601-4d6d-8a4c-c943516dad6b")
-		(at 242.155 63.505)
+		(at 247.155 63.505)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H7"
@@ -5832,7 +5832,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "9fe7474f-2ca4-4f68-b172-f99177b520a1")
-		(at 61.18 73.03)
+		(at 66.18 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW14"
@@ -5954,7 +5954,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "a011cfb0-3ad7-4783-ba22-d7a88187afa8")
-		(at 251.68 53.98)
+		(at 256.68 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW12"
@@ -6076,7 +6076,7 @@
 	(footprint "Keyboard_Plate:Special 4u center"
 		(layer "F.Cu")
 		(uuid "a513d405-175a-414c-ade1-b52f262bb564")
-		(at 146.905 130.18 180)
+		(at 151.905 130.18 180)
 		(descr "Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
 		(tags "Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
 		(property "Reference" "SW62"
@@ -6460,7 +6460,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "a51c47a4-fbc7-4c9c-becc-8e3e5fad8a95")
-		(at 80.23 53.98 180)
+		(at 85.23 53.98 180)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW3"
@@ -6582,7 +6582,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "b3df0d34-f59f-4fd1-a103-b52fde3ae960")
-		(at 137.38 111.13)
+		(at 142.38 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW42"
@@ -6704,7 +6704,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "b55fff44-88b1-4025-99eb-24bf1d03adf3")
-		(at 42.13 73.03)
+		(at 47.13 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW13"
@@ -6826,7 +6826,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "b6e5e684-5b34-4b53-8575-88923f43eab1")
-		(at 61.18 53.98 180)
+		(at 66.18 53.98 180)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW2"
@@ -6948,7 +6948,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "bb2150c7-78cd-44a8-9837-18f3abbf5f88")
-		(at 194.53 73.03)
+		(at 199.53 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW21"
@@ -7070,7 +7070,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "c7c93885-2337-4c63-80ec-23e112870fe9")
-		(at 213.58 111.13)
+		(at 218.58 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW46"
@@ -7192,7 +7192,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "dbb83fd3-fa59-4263-bbcc-1aa71db5806b")
-		(at 118.33 73.03)
+		(at 123.33 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW17"
@@ -7314,7 +7314,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "dc6e5c77-c67e-4a2a-a870-2100e45819cb")
-		(at 80.23 92.08)
+		(at 85.23 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW27"
@@ -7436,7 +7436,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "e1737967-af7c-4f4b-8b59-b9fb6d7d1c60")
-		(at 99.28 111.13)
+		(at 104.28 111.13)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW40"
@@ -7558,7 +7558,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "e7e1fea2-5c16-464c-b423-03732e5c202b")
-		(at 232.63 92.08)
+		(at 237.63 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW35"
@@ -7680,7 +7680,7 @@
 	(footprint "Keyboard Common:Spacer PCB hole"
 		(layer "F.Cu")
 		(uuid "e8f8169b-ee80-44f7-825e-bc27257ea086")
-		(at 146.905 101.605)
+		(at 151.905 101.605)
 		(descr "Mounting Hole 3.7mm, no annular")
 		(tags "mounting hole 3.7mm no annular")
 		(property "Reference" "H3"
@@ -7816,7 +7816,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "f18f8df5-8400-4839-8ca8-55d28a94ea21")
-		(at 99.28 53.98)
+		(at 104.28 53.98)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW4"
@@ -7938,7 +7938,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "f2f94c5b-72a7-43a3-a035-c2cee93faa25")
-		(at 80.23 73.03)
+		(at 85.23 73.03)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW15"
@@ -8060,7 +8060,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "f3f10278-9642-47c7-a640-eae8ebc41f8f")
-		(at 156.43 92.08)
+		(at 161.43 92.08)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW31"
@@ -8182,7 +8182,7 @@
 	(footprint "Keyboard_Plate:SW_MX_Plate_Placeholder_nodrill_NOBORDER_13,9"
 		(layer "F.Cu")
 		(uuid "fca4cc7a-2cce-4cf0-86cb-166e404f3374")
-		(at 99.28 130.18)
+		(at 104.28 130.18)
 		(descr "MX-style keyswitch with reversible Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW52"
@@ -9475,8 +9475,8 @@
 		)
 	)
 	(gr_line
-		(start 260.905 48.055)
-		(end 260.902214 64.642786)
+		(start 265.905 48.055)
+		(end 265.902214 64.642786)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9485,9 +9485,9 @@
 		(uuid "0443b48c-357e-4de0-aa67-18f4e78f8544")
 	)
 	(gr_arc
-		(start 166.955 64.605)
-		(mid 166.455 64.105)
-		(end 166.955 63.605)
+		(start 171.955 64.605)
+		(mid 171.455 64.105)
+		(end 171.955 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9496,9 +9496,9 @@
 		(uuid "071d59cb-3d02-4f1a-b628-843ed07bdbbb")
 	)
 	(gr_arc
-		(start 38.405 64.605)
-		(mid 37.905 64.105)
-		(end 38.405 63.605)
+		(start 43.405 64.605)
+		(mid 42.905 64.105)
+		(end 43.405 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9507,9 +9507,9 @@
 		(uuid "07cba59b-c47a-4e54-a485-e32eafef5afb")
 	)
 	(gr_arc
-		(start 32.905 48.055)
-		(mid 33.637233 46.287233)
-		(end 35.405 45.555)
+		(start 37.905 48.055)
+		(mid 38.637233 46.287233)
+		(end 40.405 45.555)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9518,8 +9518,8 @@
 		(uuid "0a95dc94-dc80-4251-97ca-84a79d0d80d1")
 	)
 	(gr_line
-		(start 255.405 63.605)
-		(end 245.555 63.605001)
+		(start 260.405 63.605)
+		(end 250.555 63.605001)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9528,9 +9528,9 @@
 		(uuid "0d5129c0-a436-409b-8d81-46f516d8a381")
 	)
 	(gr_arc
-		(start 186.005 64.605)
-		(mid 185.505 64.105)
-		(end 186.005 63.605)
+		(start 191.005 64.605)
+		(mid 190.505 64.105)
+		(end 191.005 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9539,8 +9539,8 @@
 		(uuid "129dfe44-b4f3-492f-ae8e-afc70ab4b227")
 	)
 	(gr_line
-		(start 32.905 67.105)
-		(end 32.905 136.105)
+		(start 37.905 67.105)
+		(end 37.905 136.105)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9549,9 +9549,9 @@
 		(uuid "15e4bec8-c2d2-4149-9707-95d381865242")
 	)
 	(gr_arc
-		(start 148.905 64.605)
-		(mid 148.405 64.105)
-		(end 148.905 63.605)
+		(start 153.905 64.605)
+		(mid 153.405 64.105)
+		(end 153.905 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9560,9 +9560,9 @@
 		(uuid "1748cfdd-31d0-45fd-bf48-9ab03a15aa86")
 	)
 	(gr_arc
-		(start 184.005 63.605)
-		(mid 184.505 64.105)
-		(end 184.005 64.605)
+		(start 189.005 63.605)
+		(mid 189.505 64.105)
+		(end 189.005 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9571,9 +9571,9 @@
 		(uuid "1770e3c1-8acd-4c18-b590-adda4b405426")
 	)
 	(gr_arc
-		(start 222.105 63.605)
-		(mid 222.605 64.105)
-		(end 222.105 64.605)
+		(start 227.105 63.605)
+		(mid 227.605 64.105)
+		(end 227.105 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9582,9 +9582,9 @@
 		(uuid "18ea9dc6-76e1-4523-a51b-3b47705b61c5")
 	)
 	(gr_arc
-		(start 245.555 64.605)
-		(mid 245.055 64.105)
-		(end 245.555 63.605)
+		(start 250.555 64.605)
+		(mid 250.055 64.105)
+		(end 250.555 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9593,8 +9593,8 @@
 		(uuid "1ac67b9e-f014-4b96-8c17-9d56cf6d39d4")
 	)
 	(gr_line
-		(start 203.055 63.605)
-		(end 186.005 63.605)
+		(start 208.055 63.605)
+		(end 191.005 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9603,8 +9603,8 @@
 		(uuid "24272dda-1155-4a1f-aa52-383e2e719cd4")
 	)
 	(gr_line
-		(start 184.005 64.605)
-		(end 166.955 64.605)
+		(start 189.005 64.605)
+		(end 171.955 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9613,9 +9613,9 @@
 		(uuid "2cc47e07-33e1-4da7-9589-4ce3e25d2e12")
 	)
 	(gr_arc
-		(start 258.405 64.605)
-		(mid 260.172767 65.337233)
-		(end 260.905 67.105)
+		(start 263.405 64.605)
+		(mid 265.172767 65.337233)
+		(end 265.905 67.105)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9624,8 +9624,8 @@
 		(uuid "30190618-b373-4956-81ba-89f9387536b1")
 	)
 	(gr_line
-		(start 126.855 63.605)
-		(end 109.805 63.605)
+		(start 131.855 63.605)
+		(end 114.805 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9634,9 +9634,9 @@
 		(uuid "33646b14-8fc4-4085-bed0-1325e8d92d1a")
 	)
 	(gr_arc
-		(start 32.905 67.105)
-		(mid 33.637233 65.337233)
-		(end 35.405 64.605)
+		(start 37.905 67.105)
+		(mid 38.637233 65.337233)
+		(end 40.405 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9645,8 +9645,8 @@
 		(uuid "3f464be0-6db7-4e1e-86f9-20de06915d01")
 	)
 	(gr_line
-		(start 238.755 63.605)
-		(end 224.105 63.605)
+		(start 243.755 63.605)
+		(end 229.105 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9655,8 +9655,8 @@
 		(uuid "402567a1-27a3-42e1-9791-f7fdcdbe5b7e")
 	)
 	(gr_line
-		(start 222.105 64.605)
-		(end 205.055 64.605)
+		(start 227.105 64.605)
+		(end 210.055 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9665,9 +9665,9 @@
 		(uuid "42a19660-1ddb-4ce9-a1dc-55c5f6abc40f")
 	)
 	(gr_arc
-		(start 258.405 63.605001)
-		(mid 259.756499 63.8763)
-		(end 260.902214 64.642786)
+		(start 263.405 63.605001)
+		(mid 264.75651 63.876288)
+		(end 265.902214 64.642786)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9676,9 +9676,9 @@
 		(uuid "45a259d7-20f4-4e3f-b3ae-7b3a275aaf03")
 	)
 	(gr_arc
-		(start 203.055 63.605)
-		(mid 203.555 64.105)
-		(end 203.055 64.605)
+		(start 208.055 63.605)
+		(mid 208.555 64.105)
+		(end 208.055 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9687,9 +9687,9 @@
 		(uuid "47f355e2-958f-4466-aa20-26d7042e03ce")
 	)
 	(gr_arc
-		(start 238.755 63.605)
-		(mid 239.255 64.105)
-		(end 238.755 64.605)
+		(start 243.755 63.605)
+		(mid 244.255 64.105)
+		(end 243.755 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9698,8 +9698,8 @@
 		(uuid "52465708-a57d-4dca-95e5-e4eda2935939")
 	)
 	(gr_line
-		(start 260.905 67.105)
-		(end 260.905 136.105)
+		(start 265.905 67.105)
+		(end 265.905 136.105)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9708,8 +9708,8 @@
 		(uuid "57733097-0e03-436e-9a89-e18a42bbd48d")
 	)
 	(gr_line
-		(start 88.755 64.605)
-		(end 71.705 64.605)
+		(start 93.755 64.605)
+		(end 76.705 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9718,9 +9718,9 @@
 		(uuid "640068cc-c51e-4f46-acfb-201beb21fe8f")
 	)
 	(gr_arc
-		(start 224.105 64.605)
-		(mid 223.605 64.105)
-		(end 224.105 63.605)
+		(start 229.105 64.605)
+		(mid 228.605 64.105)
+		(end 229.105 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9729,8 +9729,8 @@
 		(uuid "65d86c08-37aa-4833-8661-e8a534e43b1d")
 	)
 	(gr_line
-		(start 222.105 63.605)
-		(end 205.055 63.605)
+		(start 227.105 63.605)
+		(end 210.055 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9739,9 +9739,9 @@
 		(uuid "69d5bd8f-42b0-46e0-a7c8-f6fb6ac1cd48")
 	)
 	(gr_arc
-		(start 205.055 64.605)
-		(mid 204.555 64.105)
-		(end 205.055 63.605)
+		(start 210.055 64.605)
+		(mid 209.555 64.105)
+		(end 210.055 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9750,8 +9750,8 @@
 		(uuid "6ead5d39-5bcc-47fa-9652-6b0a0da5348e")
 	)
 	(gr_line
-		(start 107.805 64.605)
-		(end 90.755 64.605)
+		(start 112.805 64.605)
+		(end 95.755 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9760,8 +9760,8 @@
 		(uuid "74c00125-6b53-4c51-823f-1e2c13464f04")
 	)
 	(gr_line
-		(start 164.955 63.605)
-		(end 148.905 63.605)
+		(start 169.955 63.605)
+		(end 153.905 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9770,8 +9770,8 @@
 		(uuid "75d0c476-ca4b-43d1-8fe7-464ad7b620da")
 	)
 	(gr_line
-		(start 48.255 64.605)
-		(end 38.405 64.605)
+		(start 53.255 64.605)
+		(end 43.405 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9780,9 +9780,9 @@
 		(uuid "78746146-30d6-4af2-99d4-3ee7eb71d193")
 	)
 	(gr_arc
-		(start 35.405 63.605)
-		(mid 35.905 64.105)
-		(end 35.405 64.605)
+		(start 40.405 63.605)
+		(mid 40.905 64.105)
+		(end 40.405 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9791,9 +9791,9 @@
 		(uuid "79216e6d-5e91-48da-9fbe-aea9b97cd8ba")
 	)
 	(gr_arc
-		(start 69.705 63.605)
-		(mid 70.205 64.105)
-		(end 69.705 64.605)
+		(start 74.705 63.605)
+		(mid 75.205 64.105)
+		(end 74.705 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9802,8 +9802,8 @@
 		(uuid "866ca3df-dd37-4455-be71-10b6fd21854f")
 	)
 	(gr_line
-		(start 238.755 64.605)
-		(end 224.105 64.605)
+		(start 243.755 64.605)
+		(end 229.105 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9812,8 +9812,8 @@
 		(uuid "8f22def7-4c73-4f9e-a525-bf6252f33316")
 	)
 	(gr_line
-		(start 184.005 63.605)
-		(end 166.955 63.605)
+		(start 189.005 63.605)
+		(end 171.955 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9822,8 +9822,8 @@
 		(uuid "8fa18a03-5e43-4ca5-94fd-b075be59022c")
 	)
 	(gr_line
-		(start 164.955 64.605)
-		(end 148.905 64.605)
+		(start 169.955 64.605)
+		(end 153.905 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9832,8 +9832,8 @@
 		(uuid "9101faec-d7a2-452b-92a9-1c39bcdccee0")
 	)
 	(gr_line
-		(start 88.755 63.605)
-		(end 71.705 63.605)
+		(start 93.755 63.605)
+		(end 76.705 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9842,9 +9842,9 @@
 		(uuid "97898983-4791-4215-9e19-e50ddf979035")
 	)
 	(gr_arc
-		(start 258.405 45.555)
-		(mid 260.172767 46.287233)
-		(end 260.905 48.055)
+		(start 263.405 45.555)
+		(mid 265.172767 46.287233)
+		(end 265.905 48.055)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9853,8 +9853,8 @@
 		(uuid "9a593bc6-f653-4ee5-a4c6-f23c67bf278f")
 	)
 	(gr_line
-		(start 126.855 64.605)
-		(end 109.805 64.605)
+		(start 131.855 64.605)
+		(end 114.805 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9863,8 +9863,8 @@
 		(uuid "a213ab65-05c3-4de7-a9a0-a746d3efea13")
 	)
 	(gr_line
-		(start 107.805 63.605)
-		(end 90.755 63.605)
+		(start 112.805 63.605)
+		(end 95.755 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9873,9 +9873,9 @@
 		(uuid "a5b9a889-3ef4-49a1-9d85-b051477b48e8")
 	)
 	(gr_arc
-		(start 128.855 64.605)
-		(mid 128.355 64.105)
-		(end 128.855 63.605)
+		(start 133.855 64.605)
+		(mid 133.355 64.105)
+		(end 133.855 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9884,8 +9884,8 @@
 		(uuid "a8b566ad-067c-4dfa-916e-fbcc0543158f")
 	)
 	(gr_line
-		(start 144.905 64.605)
-		(end 128.855 64.605)
+		(start 149.905 64.605)
+		(end 133.855 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9894,8 +9894,8 @@
 		(uuid "b373ccd1-c5f9-4447-92be-21665872dd1e")
 	)
 	(gr_line
-		(start 48.255 63.605)
-		(end 38.405 63.605)
+		(start 53.255 63.605)
+		(end 43.405 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9904,8 +9904,8 @@
 		(uuid "b9933c6d-564a-497d-b690-eb95ed3681d3")
 	)
 	(gr_line
-		(start 144.905 63.605)
-		(end 128.855 63.605)
+		(start 149.905 63.605)
+		(end 133.855 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9914,9 +9914,9 @@
 		(uuid "bf704d77-1c31-42ca-ad24-463a9424eab8")
 	)
 	(gr_arc
-		(start 71.705 64.605)
-		(mid 71.205 64.105)
-		(end 71.705 63.605)
+		(start 76.705 64.605)
+		(mid 76.205 64.105)
+		(end 76.705 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9925,8 +9925,8 @@
 		(uuid "c5d60d5f-5291-4031-96b0-e5761c9d2931")
 	)
 	(gr_line
-		(start 203.055 64.605)
-		(end 186.005 64.605)
+		(start 208.055 64.605)
+		(end 191.005 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9935,8 +9935,8 @@
 		(uuid "cc429b4e-9ddd-4058-9547-49851ef735ba")
 	)
 	(gr_line
-		(start 32.905 64.643)
-		(end 32.905 48.055)
+		(start 37.905 64.643)
+		(end 37.905 48.055)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9945,8 +9945,8 @@
 		(uuid "d234b271-4ed8-472e-92a8-9ddcf7addb19")
 	)
 	(gr_line
-		(start 69.705 64.605)
-		(end 55.055 64.605)
+		(start 74.705 64.605)
+		(end 60.055 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9955,9 +9955,9 @@
 		(uuid "d41675dc-fb19-4220-8c97-ed9e53e212df")
 	)
 	(gr_arc
-		(start 164.955 63.605)
-		(mid 165.455 64.105)
-		(end 164.955 64.605)
+		(start 169.955 63.605)
+		(mid 170.455 64.105)
+		(end 169.955 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9966,9 +9966,9 @@
 		(uuid "d594dcfb-2a8f-4086-abdf-ccae5e4981bb")
 	)
 	(gr_arc
-		(start 126.855 63.605)
-		(mid 127.355 64.105)
-		(end 126.855 64.605)
+		(start 131.855 63.605)
+		(mid 132.355 64.105)
+		(end 131.855 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9977,9 +9977,9 @@
 		(uuid "d758711b-3845-447e-a2b2-75e95488526e")
 	)
 	(gr_arc
-		(start 144.905 63.605)
-		(mid 145.405 64.105)
-		(end 144.905 64.605)
+		(start 149.905 63.605)
+		(mid 150.405 64.105)
+		(end 149.905 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9988,9 +9988,9 @@
 		(uuid "d767843c-7278-4133-8b5f-3aac36dbdc6d")
 	)
 	(gr_arc
-		(start 88.755 63.605)
-		(mid 89.255 64.105)
-		(end 88.755 64.605)
+		(start 93.755 63.605)
+		(mid 94.255 64.105)
+		(end 93.755 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -9999,9 +9999,9 @@
 		(uuid "db4add79-b452-4b29-97db-472113769b74")
 	)
 	(gr_arc
-		(start 55.055 64.605)
-		(mid 54.555 64.105)
-		(end 55.055 63.605)
+		(start 60.055 64.605)
+		(mid 59.555 64.105)
+		(end 60.055 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10010,8 +10010,8 @@
 		(uuid "df4a5cf3-fffc-42fe-bc4f-0e92fab23770")
 	)
 	(gr_line
-		(start 258.405 45.555)
-		(end 35.405 45.555)
+		(start 263.405 45.555)
+		(end 40.405 45.555)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10020,8 +10020,8 @@
 		(uuid "e1e33092-215c-4d18-aa90-f202a0deaabd")
 	)
 	(gr_line
-		(start 69.705 63.605)
-		(end 55.055 63.605)
+		(start 74.705 63.605)
+		(end 60.055 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10030,9 +10030,9 @@
 		(uuid "e2c6f229-d634-424c-b9d7-cc8910acb0cb")
 	)
 	(gr_arc
-		(start 255.405 63.605)
-		(mid 255.905 64.105)
-		(end 255.405 64.605)
+		(start 260.405 63.605)
+		(mid 260.905 64.105)
+		(end 260.405 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10041,9 +10041,9 @@
 		(uuid "e82cb281-0173-42c1-9ff4-f3743cd0038c")
 	)
 	(gr_arc
-		(start 32.905 64.643)
-		(mid 34.050712 63.876515)
-		(end 35.402214 63.605215)
+		(start 37.905 64.643)
+		(mid 39.050718 63.876536)
+		(end 40.402214 63.605215)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10052,9 +10052,9 @@
 		(uuid "e88a6f37-72de-475a-b348-d664bae95205")
 	)
 	(gr_arc
-		(start 258.405 64.605)
-		(mid 257.905 64.105)
-		(end 258.405 63.605)
+		(start 263.405 64.605)
+		(mid 262.905 64.105)
+		(end 263.405 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10063,9 +10063,9 @@
 		(uuid "ea286dab-f3bb-4987-ad12-f2fab8457754")
 	)
 	(gr_arc
-		(start 109.805 64.605)
-		(mid 109.305 64.105)
-		(end 109.805 63.605)
+		(start 114.805 64.605)
+		(mid 114.305 64.105)
+		(end 114.805 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10074,8 +10074,8 @@
 		(uuid "eb6800a9-9b6b-4717-90dd-39f3e5ad0154")
 	)
 	(gr_line
-		(start 255.405 64.605)
-		(end 245.555 64.605)
+		(start 260.405 64.605)
+		(end 250.555 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10084,9 +10084,9 @@
 		(uuid "ecd5fe78-cf1f-4c7e-98a8-fbca7f41cada")
 	)
 	(gr_arc
-		(start 35.405 138.605)
-		(mid 33.637233 137.872767)
-		(end 32.905 136.105)
+		(start 40.405 138.605)
+		(mid 38.637233 137.872767)
+		(end 37.905 136.105)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10095,8 +10095,8 @@
 		(uuid "efcd866f-bcec-4d0e-be1b-11611307a770")
 	)
 	(gr_line
-		(start 35.405 138.605)
-		(end 258.405 138.605)
+		(start 40.405 138.605)
+		(end 263.405 138.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10105,9 +10105,9 @@
 		(uuid "efdc54f6-3d6b-4cab-a79f-51e1b62b08ad")
 	)
 	(gr_arc
-		(start 48.255 63.605)
-		(mid 48.755 64.105)
-		(end 48.255 64.605)
+		(start 53.255 63.605)
+		(mid 53.755 64.105)
+		(end 53.255 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10116,9 +10116,9 @@
 		(uuid "f52a9991-8ca0-4836-a0b8-331d6478cf92")
 	)
 	(gr_arc
-		(start 260.905 136.105)
-		(mid 260.172767 137.872767)
-		(end 258.405 138.605)
+		(start 265.905 136.105)
+		(mid 265.172767 137.872767)
+		(end 263.405 138.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10127,9 +10127,9 @@
 		(uuid "f8a3e943-45bf-4339-bbc0-935ff462c46e")
 	)
 	(gr_arc
-		(start 90.755 64.605)
-		(mid 90.255 64.105)
-		(end 90.755 63.605)
+		(start 95.755 64.605)
+		(mid 95.255 64.105)
+		(end 95.755 63.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10138,9 +10138,9 @@
 		(uuid "fa522088-b811-4468-941f-044010d1b2a4")
 	)
 	(gr_arc
-		(start 107.805 63.605)
-		(mid 108.305 64.105)
-		(end 107.805 64.605)
+		(start 112.805 63.605)
+		(mid 113.305 64.105)
+		(end 112.805 64.605)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -10176,46 +10176,13 @@
 	(dimension
 		(type aligned)
 		(layer "Cmts.User")
-		(uuid "00ab556b-5daf-4877-8b78-d28922fb4943")
-		(pts
-			(xy 258.405 138.605) (xy 258.405 45.555)
-		)
-		(height 17.825)
-		(gr_text "93,0500 mm"
-			(at 275.08 92.08 90)
-			(layer "Cmts.User")
-			(uuid "00ab556b-5daf-4877-8b78-d28922fb4943")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.15)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(extension_height 0.58642)
-			(extension_offset 0.5) keep_text_aligned)
-	)
-	(dimension
-		(type aligned)
-		(layer "Cmts.User")
 		(uuid "b6a36471-bf93-431e-915e-2dd0b696cb3d")
 		(pts
-			(xy 260.905 48.055) (xy 32.905 48.055)
+			(xy 265.905 48.055) (xy 37.905 48.055)
 		)
 		(height 12.355)
 		(gr_text "228,0000 mm"
-			(at 146.905 34.55 0)
+			(at 151.905 34.55 0)
 			(layer "Cmts.User")
 			(uuid "b6a36471-bf93-431e-915e-2dd0b696cb3d")
 			(effects
@@ -10240,17 +10207,290 @@
 			(extension_offset 0.5) keep_text_aligned)
 	)
 	(dimension
-		(type aligned)
+		(type orthogonal)
 		(layer "Cmts.User")
-		(uuid "fdcbabd2-82f3-41e0-a754-a2094467094a")
+		(uuid "450c34be-85ca-4452-ae3e-f44ddae90561")
 		(pts
-			(xy 258.405 138.605) (xy 258.405 64.605)
+			(xy 40.405 138.605) (xy 40.405 45.555)
 		)
-		(height 13.305)
-		(gr_text "74,0000 mm"
-			(at 270.56 101.605 90)
+		(height -20.305)
+		(orientation 1)
+		(gr_text "93,0500 mm"
+			(at 18.95 92.08 90)
 			(layer "Cmts.User")
-			(uuid "fdcbabd2-82f3-41e0-a754-a2094467094a")
+			(uuid "450c34be-85ca-4452-ae3e-f44ddae90561")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "5e3158df-76d0-459f-91fe-3ee48d97063b")
+		(pts
+			(xy 151.905 101.605) (xy 37.905 101.605)
+		)
+		(height -63.735)
+		(orientation 0)
+		(gr_text "114,0000 mm"
+			(at 94.905 36.72 0)
+			(layer "Cmts.User")
+			(uuid "5e3158df-76d0-459f-91fe-3ee48d97063b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "61aa37a1-3847-4f6d-8105-7a172136bd08")
+		(pts
+			(xy 151.905 101.605) (xy 40.405 45.555)
+		)
+		(height -120.445)
+		(orientation 1)
+		(gr_text "56,0500 mm"
+			(at 30.31 73.58 90)
+			(layer "Cmts.User")
+			(uuid "61aa37a1-3847-4f6d-8105-7a172136bd08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "7020eb5e-86f6-4775-bf97-e41f8b7b1fd5")
+		(pts
+			(xy 247.155 63.505) (xy 265.905 48.055)
+		)
+		(height -23.095)
+		(orientation 0)
+		(gr_text "18,7500 mm"
+			(at 256.53 39.26 0)
+			(layer "Cmts.User")
+			(uuid "7020eb5e-86f6-4775-bf97-e41f8b7b1fd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "a04a8846-e995-4fb0-85e0-0b7ec82799ba")
+		(pts
+			(xy 247.155 63.505) (xy 263.405 45.555)
+		)
+		(height 25.195)
+		(orientation 1)
+		(gr_text "17,9500 mm"
+			(at 271.2 54.53 90)
+			(layer "Cmts.User")
+			(uuid "a04a8846-e995-4fb0-85e0-0b7ec82799ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "a5585d21-0f6e-4eaf-8fab-449ce6606950")
+		(pts
+			(xy 40.405 64.605) (xy 40.405 138.605)
+		)
+		(height -15.375)
+		(orientation 1)
+		(gr_text "74,0000 mm"
+			(at 23.88 101.605 90)
+			(layer "Cmts.User")
+			(uuid "a5585d21-0f6e-4eaf-8fab-449ce6606950")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "af7f203f-6223-4f17-83b0-cea4b8fb7e1e")
+		(pts
+			(xy 247.155 120.655) (xy 247.155 82.555)
+		)
+		(height 25.195)
+		(orientation 1)
+		(gr_text "38,1000 mm"
+			(at 271.2 101.605 90)
+			(layer "Cmts.User")
+			(uuid "af7f203f-6223-4f17-83b0-cea4b8fb7e1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "eba95dc5-261d-4020-82ff-ff69da5f8745")
+		(pts
+			(xy 247.155 82.555) (xy 247.155 63.505)
+		)
+		(height 25.195)
+		(orientation 1)
+		(gr_text "19,0500 mm"
+			(at 271.2 73.03 90)
+			(layer "Cmts.User")
+			(uuid "eba95dc5-261d-4020-82ff-ff69da5f8745")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Cmts.User")
+		(uuid "f09ed2e4-baa6-4480-b0c8-883683081480")
+		(pts
+			(xy 247.155 120.655) (xy 263.405 138.605)
+		)
+		(height 25.195)
+		(orientation 1)
+		(gr_text "17,9500 mm"
+			(at 271.2 129.63 90)
+			(layer "Cmts.User")
+			(uuid "f09ed2e4-baa6-4480-b0c8-883683081480")
 			(effects
 				(font
 					(size 1 1)
