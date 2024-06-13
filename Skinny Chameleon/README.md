@@ -1,17 +1,17 @@
-# Chameleon 
+# The Skinny Chameleon 
 
 ![Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/9nrq1ur6bhpt908ksrl6s7qjo6i8.jpg)
 
 ## Features
-**Chameleon is a grid type orthogonal keyboard with two optional layouts in one single PCB.** Being able to break off the bottom row allows both a 5x12 layout similar to the popular Preonic and a 4x12 layout similar to the equally popular little brother Planck on the same PCB. 
+**The Skinny Chameleon is a grid type orthogonal keyboard with two optional layouts in one single PCB. It's a direct offshoot of the original Chameleon, only made to fit the Preonic's and Planck's non-standard key spacing.** Being able to break off the bottom row allows both a 5x12 layout acting as a replacement PCB for OLKB's Preonic and a 4x12 layout for the equally popular little brother Planck on the same PCB. 
 
-Using the more common 19.05 mm grid spacing (vs Preonic & Planck's unique 19 mm) this PCB fit's several popular 'aftermarket' keyboard cases intended for JJ40/JJ50 and BM40 PCB's without modification. (Please read below!)
+Using the non-standard 19.00 mm grid spacing this PCB fit's all original cases for Preonic & Planck, and should fit all the various 'aftermarket' keyboard cases intended for these PCB's as well.
 
 Being fully hot-swap and with PCB mounted stabilizers, Chameleon adds support for up to four encoders and a bottom row allowing either a single stabilized 2u key or two 2u keys in the middle, allowing for a layout that suits most users. If used as a 5 row keyboard, the bottom encoders can alternatively be placed at the edges on the second row, but **not more than one per corner.** 
 
 The Chameleon features 8 bottomfacing RGB LEDs for underglow effects or to be used for layer indication or similar. 
 
-**Please Note! This PCB does NOT fit a Planck/Preonic case! You will need a different case to complete the build!**
+**Please Note! This PCB fits original Planck/Preonic cases! NOT BM40/JJ40/JJ50!**
 
 ### Main Features:
 * QMK and VIAL compatible, fully programmable keyboard**
@@ -33,40 +33,26 @@ The Chameleon features 8 bottomfacing RGB LEDs for underglow effects or to be us
 ### Optional add-ons:
 * Support for up to 4 rotary encoders **(one encoder per corner)**
 * Optional RGB underglow (8x SK6812 mini-e)
-* FR4 Front plate (FR4 material, same as PCB), with full layout options (Black / White). This is designed to fit most/all existing cases of a tray (or burger) mounting type, 3D printed or CNC. Se below for listed tested cases.
 
 **These options requires additional components not included in this listing and sold separately.**
 
 ## Assembly
-**Little or no tools at all needed!** The PCB can be delivered fully soldered and ready to use, either as a full matrix, or with your selection of rotary encoders (encoders need to be added to the order), or as a "DIY Kit" with the hotswap sockets for the 6 encoder positions not soldered.
+**Little or no tools at all needed!** The PCB can be delivered fully soldered and ready to use, either as a full matrix, or with your selection of rotary encoders. If ordered fully soldered, the bottom row for the size specified (4x12/5x12) is soldered, and accepts both a full 1u grid and 2u keys without any changes.
 
-The 8 optional RGB LED's needs to be soldered in place if used. (These are pre-soldered together with the encoders/hot-swap sockets at no extra cost, if that option is selected and all parts are purchased in the same order).
+**Or as a "DIY Kit" with some soldering needed**. As a DIY kit the hotswap sockets for the 6 encoder positions (corners) and the 2u keys are left unsoldered, and you can add them as your layout requires to corners not using an encoder, and to the bottom row you choose to use. (A total if 9 sockets included for soldering).
+
+The optional RGB LED's needs to be soldered in place if used. (8 pcs, SK681x mini-E)
+
+_The RGB LED's and encoders are all pre-soldered together with the required hotswap sockets at no extra cost, if the soldering option is selected and all parts needed are purchased in the same order._
 
 # Case & Plate
-**The design is made to fit any existing cases for JJ40/JJ50 & BM40 both CNC and 3D printed.** This means that existing cases with an *integrated* plate is then limited to the layout options supported by that case/plate even if the PCB supports more layouts. 
+**The design is made to fit any Planck or Preonic case and plate, and act as a drop-in replacement PCB.** It does *not* fit any case not advertised as specific fitment for these. 
 
-#### Cases verified to work:
+**Any mounting hardware should accompany the case, and is not supplied with the PCB.** This means you will have to save and reuse the hardware with your originial case. 
 
-- [JJ50 Aluminium & Acrylic Case](https://kprepublic.com/collections/jj50-50/products/anodized-aluminium-case-for-jj50-50-custom-keyboard-acrylic-diffuser-rotary-brace-similar-with-preonic)
-- [JJ50 Stainless Steel Case](https://kprepublic.com/collections/jj50-50/products/stainless-steel-bent-case-enclosed-case-for-jj50-jj50-50-custom-keyboard-acrylic-panels-acrylic-panel-diffuser-similar-preonic)
-- [JJ40 Aluminium Tray Case](https://kprepublic.com/products/anodized-aluminium-jj40-bm40-flat-case-metal-feet-black-sliver-grey-for-40-mini?_pos=1&_sid=b33f69eef&_ss=r)
-- [JJ40 Aluminium & Acrylic Case](https://kprepublic.com/products/anodized-aluminium-case-for-jj40-40-custom-keyboard-acrylic-panels-acrylic-diffuser-jj40-rotary-brace-supporter-for-planck?_pos=4&_sid=b33f69eef&_ss=r)
-- [Poseidon PSD40 Case Anodized](https://kprepublic.com/products/poseidon-psd40-case-anodized-aluminium-case-for-custom-mechanical-keyboard-black-siver-grey-blue-red-for-jj40-bm40-bm40-rgb?_pos=5&_sid=b33f69eef&_ss=r) 
-- [Poseidon PSD40 Case Electonplated](https://kprepublic.com/products/kp-poseidon-psd40-case-electrophoresis-cnc-case-for-custom-mechanical-keyboard-yellow-purple-cyan-white-for-jj40-bm40-bm40-rgb?_pos=6&_sid=b33f69eef&_ss=r)
+**The solder on studs can be removed from your original PCB and re-used.**  Or, you can choose to buy replacement studs as an add-on, and not have to bother with the removal. Please note that the replacement studs are slightly loose in the holes to allow the use of both types (the original ones are a speciality item made for OLKB, I'm using the nearest off the shelf replacement), and they _absolutely need_ to be soldered on to the PCB to be useful. I highly suggest attaching them to the case, placing the PCB and solder as they are aligned.
 
-*Mounting hardware is associated with the case, and not delivered with the Chameleon PCB and Plate.
-
-## Front Plate
-**A front plate in FR4 (PCB core material) is available as an add-on, but may not fit all cases.** To be as much a "one size fit's all" plate, this plate has rounded corners, which may leave gaps in the corners on some cases.
-
-## Sandwich type case/plates
-A full sandwich type case in FR4 material will be added at a later date for those interested, but is for now WIP.
-
-** Firmware pending
-
-![Built Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1473.JPEG)
-![Lit Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1472.JPEG)
-
+***Change for version 1.10*** New PCB's will _NOT_ be able to fit the unusually sized original OLKB studs. Having to make a choice between the weird size making off the shelf studs be hard to center and re-using the original studs (which takes some skill), I'm choosing the off the shelf ones I can supply at a decent price. 
 # Making Chameleon yourself
 **Chameleon is open source / open hardware, and can be manufactured by anyone. The release contains all the neccesary files like parts lists, positions files etc for a full PCB/SMT production.** 
 
