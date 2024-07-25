@@ -64,11 +64,12 @@ The 8 optional RGB LED's needs to be soldered in place if used. (These are pre-s
 - [JJ50 - "Preonic" LoPro case](https://github.com/TweetyDaBird/Chameleon/blob/Development/JJ50_BM50_low_pro.zip)
 - [JJ40 & BM40 - "Planck" LoPro case](https://github.com/TweetyDaBird/Chameleon/blob/Development/JJ40_BM40_low_pro.zip)
 
-## Sandwich type case/plates
-A full sandwich type case in FR4 material will be added at a later date for those interested, but is for now WIP.
-
+#### Examples of a 3D-printed case in white (Including the top image):
 ![Built Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1473.JPEG)
 ![Lit Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1472.JPEG)
+
+## Sandwich type case/plates
+A full sandwich type case in FR4 material will be added at a later date for those interested, but is for now WIP.
 
 # Making Chameleon yourself
 **Chameleon is open source / open hardware, and can be manufactured by anyone. The release contains all the neccesary files like parts lists, positions files etc for a full PCB/SMT production.** 
