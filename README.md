@@ -59,10 +59,13 @@ The 8 optional RGB LED's needs to be soldered in place if used. (These are pre-s
 ## Front Plate
 **A front plate in FR4 (PCB core material) is available as an add-on, but may not fit all cases.** To be as much a "one size fit's all" plate, this plate has rounded corners, which may leave gaps in the corners on some cases.
 
+## 3D-print a case
+**This is an adaptation of the Olkb Low Pro, ie low profile case for the Planck**, slightly re-designed to fit the 'normal' key spacing of the JJ40/JJ50 PCB and available as two designs to fit either the Planck or Preonic layout. Fully compatible with the FR4 front plate.
+- [JJ50 - "Preonic" LoPro case](https://github.com/TweetyDaBird/Chameleon/blob/Development/JJ50_BM50_low_pro.zip)
+- [JJ40 & BM40 - "Planck" LoPro case](https://github.com/TweetyDaBird/Chameleon/blob/Development/JJ40_BM40_low_pro.zip)
+
 ## Sandwich type case/plates
 A full sandwich type case in FR4 material will be added at a later date for those interested, but is for now WIP.
-
-** Firmware pending
 
 ![Built Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1473.JPEG)
 ![Lit Chameleon](https://github.com/TweetyDaBird/Chameleon/blob/cacc1df8e47305e165246d7c2ac52fd11dd8695b/Store%20images/IMG_1472.JPEG)
