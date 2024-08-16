@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Skinny Chameleon")
-		(date "2024-06-04")
+		(date "2024-08-16")
 		(rev "v1.10")
 		(company "Tweety's Wild Thinking")
 		(comment 1 "Markus Knutsson <markus.knutsson@tweety.se>")
@@ -34536,7 +34536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Logotypes:Powered_by_QMK"
+		(property "Footprint" "Logotypes:qmk logo"
 			(at 24.13 267.97 0)
 			(effects
 				(font
