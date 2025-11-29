@@ -29417,10 +29417,10 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a481e195-1c35-4495-b5e9-4d2e759f30fb")
-		(property "Reference" "SW68"
+		(property "Reference" "TACT1"
 			(at 252.73 80.01 0)
 			(effects
 				(font
@@ -29428,7 +29428,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "TACT"
 			(at 252.73 82.55 0)
 			(effects
 				(font
@@ -29463,6 +29463,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C557591"
+			(at 252.73 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c80d06a-acff-412c-8f93-88237defdc75")
 		)
@@ -29472,7 +29481,7 @@
 		(instances
 			(project "Chameleon v1_11"
 				(path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
-					(reference "SW68")
+					(reference "TACT1")
 					(unit 1)
 				)
 			)
@@ -29674,10 +29683,10 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8ed9d64-7b26-4763-b869-45eba8254d29")
-		(property "Reference" "SW67"
+		(property "Reference" "TACT2"
 			(at 293.37 78.74 0)
 			(effects
 				(font
@@ -29685,7 +29694,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "TACT"
 			(at 293.37 81.28 0)
 			(effects
 				(font
@@ -29720,6 +29729,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C557591"
+			(at 293.37 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "499a97b5-8330-4657-93c7-f1509d2266da")
 		)
@@ -29729,7 +29747,7 @@
 		(instances
 			(project "Chameleon v1_11"
 				(path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
-					(reference "SW67")
+					(reference "TACT2")
 					(unit 1)
 				)
 			)
